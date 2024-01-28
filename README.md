@@ -91,6 +91,7 @@ Built With
 Node.js
 ExpressJS
 TypeScript
+Jest
 
 Stiv Daiu
-Jest
+
